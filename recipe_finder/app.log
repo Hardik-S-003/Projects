@@ -1,0 +1,21 @@
+2025-04-03 07:31:22,596 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=42a40b91ce194ec2935fb4a7f127a1bb&ingredients=chicken,rice,egg&cuisine=Indian
+2025-04-03 07:31:23,596 - ERROR - API request error: 401 Client Error: Unauthorized for url: https://api.spoonacular.com/recipes/complexSearch?apiKey=42a40b91ce194ec2935fb4a7f127a1bb&ingredients=chicken,rice,egg&cuisine=Indian
+2025-04-03 07:38:00,368 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&ingredients=chicken,rice,egg&cuisine=Indian
+2025-04-03 07:38:13,341 - INFO - API request: https://api.spoonacular.com/recipes/641128/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c
+2025-04-03 07:38:14,562 - WARNING - Nutritional information not available.
+2025-04-03 07:38:20,728 - INFO - API request: https://api.spoonacular.com/recipes/643775/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c
+2025-04-03 07:38:21,769 - WARNING - Nutritional information not available.
+2025-04-03 07:38:22,014 - INFO - API request: https://api.spoonacular.com/recipes/643775/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c
+2025-04-03 07:38:23,017 - WARNING - Nutritional information not available.
+2025-04-03 07:38:26,507 - INFO - API request: https://api.spoonacular.com/recipes/716364/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c
+2025-04-03 07:38:27,605 - WARNING - Nutritional information not available.
+2025-04-03 07:38:33,329 - INFO - API request: https://api.spoonacular.com/recipes/646043/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c
+2025-04-03 07:38:34,461 - WARNING - Nutritional information not available.
+2025-04-03 07:38:36,150 - INFO - API request: https://api.spoonacular.com/recipes/798400/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c
+2025-04-03 07:38:36,824 - WARNING - Nutritional information not available.
+2025-04-03 07:38:57,392 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&ingredients=rice&cuisine=Indian&diet=Vegetarian
+2025-04-03 07:39:02,064 - INFO - API request: https://api.spoonacular.com/recipes/640234/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c
+2025-04-03 07:39:03,131 - WARNING - Nutritional information not available.
+2025-04-03 07:51:38,452 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&ingredients=chicken&cuisine=Indian
+2025-04-03 07:51:44,650 - INFO - API request: https://api.spoonacular.com/recipes/660290/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c
+2025-04-03 07:51:45,627 - WARNING - Nutritional information not available.

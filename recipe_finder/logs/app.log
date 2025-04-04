@@ -1,3 +1,63 @@
 2025-04-02 15:45:46,796 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=42a40b91ce194ec2935fb4a7f127a1bb&ingredients=chicken,rice&cuisine=Indian
 2025-04-02 15:45:47,405 - INFO - API request: https://api.spoonacular.com/recipes/798400/information?apiKey=42a40b91ce194ec2935fb4a7f127a1bb
 2025-04-02 15:45:47,974 - WARNING - Nutritional information not available.
+2025-04-03 08:26:46,835 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=chicken&addRecipeNutrition=true&cuisine=Indian&diet=non-veg
+2025-04-03 08:26:53,878 - INFO - API request: https://api.spoonacular.com/recipes/650673/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-03 16:32:42,023 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=chicken&cuisine=Indian&diet=non-veg
+2025-04-03 16:32:46,246 - INFO - API request: https://api.spoonacular.com/recipes/638389/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-03 16:37:53,159 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=chicken&cuisine=Asian&diet=non-veg
+2025-04-03 16:37:56,350 - INFO - API request: https://api.spoonacular.com/recipes/651726/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-03 16:41:44,475 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=chicken&cuisine=Indian
+2025-04-03 16:41:46,763 - ERROR - Error during recipe search: main thread is not in main loop
+2025-04-03 16:41:51,223 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=chicken&cuisine=Indian
+2025-04-03 16:41:53,349 - ERROR - Error during recipe search: main thread is not in main loop
+2025-04-03 16:43:46,007 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=rice&cuisine=Asian
+2025-04-03 16:43:48,474 - ERROR - Error during recipe search: main thread is not in main loop
+2025-04-03 16:45:30,670 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=rice&cuisine=British
+2025-04-03 16:45:32,868 - ERROR - Error during recipe search: main thread is not in main loop
+2025-04-04 07:11:21,621 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=chicken&cuisine=Indian
+2025-04-04 07:11:25,259 - INFO - API request: https://api.spoonacular.com/recipes/650673/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:19:29,470 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=rice&cuisine=Chinese
+2025-04-04 07:19:32,768 - INFO - API request: https://api.spoonacular.com/recipes/658270/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:19:33,997 - INFO - Nutrition data shape: (32, 4)
+2025-04-04 07:19:34,628 - INFO - Nutrition chart created successfully
+2025-04-04 07:20:18,778 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=chicken&cuisine=Indian&diet=non-veg
+2025-04-04 07:20:22,660 - INFO - API request: https://api.spoonacular.com/recipes/651726/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:20:23,702 - INFO - Nutrition data shape: (32, 4)
+2025-04-04 07:20:24,126 - INFO - Nutrition chart created successfully
+2025-04-04 07:20:31,549 - INFO - API request: https://api.spoonacular.com/recipes/663868/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:20:32,598 - INFO - Nutrition data shape: (32, 4)
+2025-04-04 07:20:33,069 - INFO - Nutrition chart created successfully
+2025-04-04 07:20:35,044 - INFO - API request: https://api.spoonacular.com/recipes/652834/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:20:36,373 - INFO - Nutrition data shape: (31, 4)
+2025-04-04 07:20:36,784 - INFO - Nutrition chart created successfully
+2025-04-04 07:20:37,520 - INFO - API request: https://api.spoonacular.com/recipes/641908/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:20:38,656 - INFO - Nutrition data shape: (33, 4)
+2025-04-04 07:20:39,120 - INFO - Nutrition chart created successfully
+2025-04-04 07:20:49,776 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=rice&cuisine=Indian&diet=non-veg
+2025-04-04 07:20:51,975 - INFO - API request: https://api.spoonacular.com/recipes/660913/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:20:53,262 - INFO - Nutrition data shape: (31, 4)
+2025-04-04 07:20:53,721 - INFO - Nutrition chart created successfully
+2025-04-04 07:20:55,232 - INFO - API request: https://api.spoonacular.com/recipes/716364/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:20:56,429 - INFO - Nutrition data shape: (33, 4)
+2025-04-04 07:20:56,948 - INFO - Nutrition chart created successfully
+2025-04-04 07:20:58,922 - INFO - API request: https://api.spoonacular.com/recipes/641145/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:21:00,000 - INFO - Nutrition data shape: (32, 4)
+2025-04-04 07:21:00,521 - INFO - Nutrition chart created successfully
+2025-04-04 07:21:02,217 - INFO - API request: https://api.spoonacular.com/recipes/657085/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:21:03,385 - INFO - Nutrition data shape: (32, 4)
+2025-04-04 07:21:03,857 - INFO - Nutrition chart created successfully
+2025-04-04 07:21:08,736 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=rice&cuisine=Indian
+2025-04-04 07:21:10,861 - INFO - API request: https://api.spoonacular.com/recipes/641123/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:21:12,120 - INFO - Nutrition data shape: (33, 4)
+2025-04-04 07:21:12,535 - INFO - Nutrition chart created successfully
+2025-04-04 07:21:14,262 - INFO - API request: https://api.spoonacular.com/recipes/157459/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:21:15,330 - INFO - Nutrition data shape: (32, 4)
+2025-04-04 07:21:15,853 - INFO - Nutrition chart created successfully
+2025-04-04 07:21:27,735 - INFO - API request: https://api.spoonacular.com/recipes/complexSearch?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&query=rice&cuisine=Chinese
+2025-04-04 07:21:31,502 - INFO - API request: https://api.spoonacular.com/recipes/658270/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:21:32,622 - INFO - Nutrition data shape: (32, 4)
+2025-04-04 07:21:33,152 - INFO - Nutrition chart created successfully
+2025-04-04 07:21:39,052 - INFO - API request: https://api.spoonacular.com/recipes/656777/information?apiKey=d93d372ab8ff42e5b64bf9ab41c5cd7c&includeNutrition=true
+2025-04-04 07:21:40,512 - INFO - Nutrition data shape: (33, 4)
+2025-04-04 07:21:40,927 - INFO - Nutrition chart created successfully
